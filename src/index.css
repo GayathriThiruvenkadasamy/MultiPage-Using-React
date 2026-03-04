@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.background{
+
+  background-image: url(images/bg-desktop.jpg);
+  background-position: center;
+  background-size: cover;
+
+
+}
