@@ -11,7 +11,7 @@ export default function Home() {
         if (open && inputRef.current) inputRef.current.focus();
     }, [open]);
 
-    const Api_key = "AIzaSyDEu8iFZiIelv5S8S6KV095qPwTshgR_QQ";
+    const Api_key = "AIza";
     const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${Api_key}`;
 
     async function geminiIntegration() {
