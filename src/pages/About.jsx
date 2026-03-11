@@ -22,7 +22,7 @@ function About() {
           </div>
         </div>
         <div className='w-100 ml-20   m-5 shadowed-lg'>
-          <img src="/images/Table.jpg" alt='table.jpg' className='w-100 h-130 rounded-full transition-transfrom duration-300 hover:scale-110' />
+          <img src="/images/Table.jpg" alt='table.jpg' className='md:w-75 lg:w-100 h-130 rounded-full transition-transfrom duration-300 hover:scale-110' />
         </div>
       </div>
 
